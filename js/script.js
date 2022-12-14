@@ -63,15 +63,6 @@ let swiper = new Swiper('.swiper', {
 
   loop: true,
   spaceBetween: 30,
-
-  breakpoints: {
-    1199: {
-      slidesPerView: 2,
-      slidesPerGroup: 2,
-      spaceBetween: 30,
-    }
-  }
-
 });
 
 // валидатор
